@@ -1,6 +1,6 @@
 # Teste com jUnit e WebDriver
 
-Aqui você encontrará o meu aprendizado de Teste de API Rest que tive na Mentoria do Júlio de Lima.
+Aqui você encontrará o meu aprendizado de Testes Web que tive na Mentoria do Júlio de Lima.
 
 
 > Link para a mentoria **[here](https://www.juliodelima.com.br/mentoria/)**
