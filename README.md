@@ -1,12 +1,8 @@
 # Teste com jUnit e WebDriver
 
-Aqui você encontrará o meu aprendizado de Testes Web que tive na Mentoria do Júlio de Lima.
+Aqui você encontrará o meu aprendizado de Testes Web com JUnit e WebDriver.
 
-
-> Link para a mentoria **[here](https://www.juliodelima.com.br/mentoria/)**
-
-
-## 📌 O que estou estudando no módulo técnico de API Rest?
+## 📌 O que estou estudando?
  
   - [x] Conceitos básicos de Aplicações Web 
   - [x] Cookies e Sessões
@@ -16,9 +12,3 @@ Aqui você encontrará o meu aprendizado de Testes Web que tive na Mentoria do J
   - [x] Teste de regressão visual
   - [x] Avaliação de acessibilidade
   - [ ] 
-  
-        
-
-   ## Conhecimento guiado por: <a name="author"></a>
-
-- Júlio de Lima
