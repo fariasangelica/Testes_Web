@@ -10,6 +10,11 @@ Aqui você encontrará o meu aprendizado de Testes Web que tive na Mentoria do J
  
   - [x] Conceitos básicos de Aplicações Web 
   - [x] Cookies e Sessões
+  - [x] Principais pontos de atenção
+  - [x] Isolando a interface gráfica
+  - [x] Momento de reflexão
+  - [x] Teste de regressão visual
+  - [x] Avaliação de acessibilidade
   - [ ] 
   
         
