@@ -2,7 +2,7 @@
 
 Aqui você encontrará o meu projeto de Testes Web com JUnit e WebDriver.
 
-## 📌 O que estou estudando?
+## 📌 O que estou estudando? 
  
   - [x] Conceitos básicos de Aplicações Web.
   - [x] Cookies e Sessões.
