@@ -17,12 +17,12 @@ Aqui você encontrará o meu projeto de Testes Web com JUnit e WebDriver.
   - [x] Checklist básico de testes web.
 
 ## Arquitetura:
-
-├───AutomacaoWeb
-│   ├───.idea
-│   ├───src
-│   │   ├───main
-│   │   │   └───resources
+```
+├───AutomacaoWeb 
+│   ├───.idea 
+│   ├───src 
+│   │   ├───main 
+│   │   │   └───resources 
 │   │   └───test
 │   │       └───java
 │   │           └───modulos
@@ -41,3 +41,4 @@ Aqui você encontrará o meu projeto de Testes Web com JUnit e WebDriver.
 │           │   └───produtos
 │           └───paginas
 └───Testes IHS
+```
