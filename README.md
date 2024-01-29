@@ -1,6 +1,6 @@
 # Teste com jUnit e WebDriver
 
-Aqui você encontrará o meu projeto de Testes Web com JUnit e WebDriver.
+Aqui você encontrará o meu projeto de Testes Web com JUnit e WebDriver. 
 
 ## 📌 O que estou estudando? 
  
